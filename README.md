@@ -1,11 +1,11 @@
 # Tutorial testnet Q-Blockchain jc airdrop
 
 <p style="font-size:14px" align="right">
-<a href="https://t.me/airdropfind" target="_blank">Join Telegram Airdrop Finder<img src="https://user-images.githubusercontent.com/50621007/183283867-56b4d69f-bc6e-4939-b00a-72aa019d1aea.png" width="30"/></a>
+<a href="https://t.me/JCAirdrops" target="_blank">Join Telegram JC Airdrop<img src="https://user-images.githubusercontent.com/50621007/183283867-56b4d69f-bc6e-4939-b00a-72aa019d1aea.png" width="30"/></a>
 </p>
 
 <p align="center">
-  <img height="auto" width="auto" src="https://raw.githubusercontent.com/bayy420-999/airdropfind/main/NavIcon.png">
+  <img height="auto" width="auto" src="https://raw.githubusercontent.com/reza0982/jcaidrop/main/NavIcon.png">
 </p>
 
 ## Referensi
