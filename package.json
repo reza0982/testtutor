@@ -9,7 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "moment": "2.0.0",
+    "jquery": "^3.7.1",
+    "moment": "^2.30.1",
     "testtutor": "^1.0.0"
   }
 }
